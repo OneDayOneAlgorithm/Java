@@ -40,11 +40,11 @@ public class _03_MultiArray {
 //        System.out.println(seats[0][4]);
 
         // 3차원 배열 만들기
-        String[][][] marray = new String[][][]{
-                {{},{},{}},
-                {{},{},{}},
-                {{},{},{}},
-        };
+//        String[][][] marray = new String[][][]{
+//                {{},{},{}},
+//                {{},{},{}},
+//                {{},{},{}}
+//        };
 
     }
 }
