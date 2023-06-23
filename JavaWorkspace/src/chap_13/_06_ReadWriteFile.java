@@ -28,7 +28,6 @@ public class _06_ReadWriteFile {
                 System.out.println(line);
             }
         }catch(IOException e){
-            throw new RuntimeException(e);
         }
     }
 }

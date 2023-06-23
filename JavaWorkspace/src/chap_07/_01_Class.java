@@ -5,7 +5,6 @@ public class _01_Class {
         // 객체 지향 프로그래밍 (00P : Object-Oriented Programming)
         // 유지보수 용이
         // 높은 재사용성
-
         // 차량용 블랙박스
         // 모델명, 해상도, 가격, 색상
         String modelName = "까망이";
