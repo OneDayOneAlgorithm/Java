@@ -21,7 +21,7 @@ public class _01_Input {
 //        System.out.println("이름 : " + name);
 //        System.out.println("혈액형 : " + bloodType);
 //        System.out.println("키 : " + height);
-//        System.out.println("몸무게 : " + weight);
+//        System.out.println("몸무게 : " + weight).;
 
         System.out.println("무슨 프로그래밍 언어를 배웠나요?");
         String lang = sc.next(); // 한 단어 (자바 파이썬)
